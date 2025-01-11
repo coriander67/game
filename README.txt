@@ -7,4 +7,5 @@ git push -u origin main
 
 
 TODO
--FIX MOVEMENT 
+-make player character
+-start making other tiles/blocks/nigg
